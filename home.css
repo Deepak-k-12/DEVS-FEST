@@ -1,0 +1,243 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.bg{
+    height: 75px;
+    position: absolute;
+    top: 2%;
+    left: 2%;
+}
+.frame{
+    height: 40%;
+    width: 375px;
+    position: absolute;
+    top: 7%;
+    left: 92%;
+}
+.ss{
+    width: 10px;
+}
+marquee{
+    color: white;
+    position: absolute;
+    top: 540px;
+    left: 45%;
+}
+.main{
+    background-color: white;
+    padding-bottom: 90px;
+}
+.hhead1,.hhead2,.hhead3,.hhead4,.hhead5{
+    position: absolute;
+    cursor: pointer;
+    font-size: 18px;
+    top: 7%;
+    
+}
+.out{
+    position: absolute;
+    top: 7%;
+    left: 96%;
+
+}
+.hhead1{
+    left: 17%;
+    }
+.hhead2{
+        left: 27%;
+        }
+.hhead3{
+     left: 37%;
+}
+.hhead4{
+    left: 49%;
+}
+.hhead5{
+    left: 89%;
+
+}
+
+
+
+body{
+    background:url("https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?q=80&w=1528&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D")no-repeat;
+    background-size: cover;
+}
+.head{
+    position: absolute;
+    top: 155px;
+    left: 36%;
+    font-size: 57px;
+    width: 55px;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.join{
+    height: 35px;
+    width: 112px;
+    font-family: "roboto";
+    font-weight: bolder;
+    background-color: blue;
+    color: white;
+    position: absolute;
+    top: 440px;
+    left: 45%;
+    border-radius: 23px;
+    border: none;
+    cursor: pointer;  
+}
+.join:hover
+{
+    height: 50px;
+    width: 122px;
+   
+}
+
+
+
+.head1{
+    position: absolute;
+    top: 215px;
+    left: 44%;
+    font-size: 57px;
+    width: 55px;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.about{
+    position: absolute;
+    top: 290px;
+    left: 43%;
+    font-weight: lighter;
+
+    font-size: 27px;
+    color: aqua;
+    font-family:'Roboto', sans-serif;
+}
+.wow{
+    width: 300px;
+    position: absolute;
+    top: 330px;
+    left: 38%;
+    color: limegreen;
+    
+}
+.mary{
+    position: absolute;
+    top: 50%;
+}
+.events1{
+    width: 200px;
+    position: absolute;
+    top: 77%;
+    left: 2%;
+    border-color: white;
+    border-width: 0.8px;
+    border-style: solid;
+    padding: 15px;
+    background-color:none;
+    cursor: pointer;
+}
+.events2{
+    width: 200px;
+    position: absolute;
+    top: 77%;
+    left: 28%;
+    border-color: white;
+    border-width: 0.8px;
+    border-style: solid;
+    padding: 15px;
+    background-color:none;
+    padding-bottom: 37px;
+    cursor: pointer;
+   
+}
+.ee1{
+    padding-left: 18%;
+    color: white;
+}
+.ee2{
+    padding-left: 10%;
+    color: white;
+}
+.ee3{
+    padding-left: 0.05%;
+    color: white;
+}
+.eve1{
+    height: 118px;
+    padding-left: 18%;
+    align-items: center;
+    
+}
+.para{
+    color: white;
+}
+.para2{
+    padding-left: 5px;
+    color: white;
+}
+.eve2{
+    height: 98px;
+    width: 132px;
+    padding-left: 18%;
+    padding-top: 15px;
+    align-items: center;
+    
+}
+.para{
+
+    line-height: 20px;
+    
+}
+.events3{
+    width: 200px;
+    position: absolute;
+    top: 77%;
+    left: 53%;
+    border-color: white;
+    border-width: 0.8px;
+    border-style: solid;
+    padding: 15px;
+    padding-right: 22px;
+    background-color:none;
+    cursor: pointer;
+}
+.ee4{
+    padding-left: 8%;
+    color: white;
+
+}
+.events4{
+    width: 200px;
+    position: absolute;
+    top: 77%;
+    left: 78%;
+    border-color: white;
+    border-width: 0.8px;
+    border-style: solid;
+    padding: 15px;
+    background-color:none;
+    cursor: pointer;
+}
+.events1:hover,.events3:hover,.events4:hover{
+    width: 230px;
+    height: 290px;
+    background-color: black;
+    border: none;
+
+}
+.events2:hover{
+    width: 230px;
+    height: 270px;
+    background-color: black;
+    border: none;
+
+}
+.you{
+    padding-bottom: 10%;
+    
+}
