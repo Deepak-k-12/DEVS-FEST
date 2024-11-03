@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.bg{
+    height: 75px;
+    position: absolute;
+    top: 2%;
+    left: 2%;
+}
+.frame{
+    height: 40%;
+    width: 375px;
+    position: absolute;
+    top: 7%;
+    left: 92%;
+}
+.main{
+    background-color: white;
+    padding-bottom: 90px;
+}
+.hhead1,.hhead2,.hhead3,.hhead4,.hhead5{
+    position: absolute;
+    cursor: pointer;
+    font-size: 18px;
+    top: 7%;
+    
+}
+.out{
+    position: absolute;
+    top: 7%;
+    left: 96%;
+
+}
+.hhead1{
+    left: 17%;
+    }
+.hhead2{
+        left: 27%;
+        }
+.hhead3{
+     left: 37%;
+}
+.hhead4{
+    left: 49%;
+}
+.hhead5{
+    left: 89%;
+
+}
